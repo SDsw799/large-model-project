@@ -17,6 +17,7 @@ This repository contains notes and projects related to large-scale models. It in
    git clone https://github.com/your-username/large-model-project.git
 
 2. Navigate to the project directory:
+    ```bash
     cd large-model-project
 3. Explore the notes and projects.
     
